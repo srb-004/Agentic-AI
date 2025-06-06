@@ -1,0 +1,55 @@
+{
+  "product_id": "SKU123456",
+  "product_name": "Motorola Edge Fusion",
+  "brand": "Motorola",
+  "category": "Smartphones",
+  "price": {
+    "currency": "USD",
+    "value": 649.99,
+    "discount": {
+      "type": "percentage",
+      "value": 10
+    },
+    "final_price": 584.99
+  },
+  "availability": "in_stock",
+  "ratings": {
+    "average_rating": 4.5,
+    "total_reviews": 324
+  },
+  "product_details": {
+    "description": "Experience blazing speed and vibrant visuals with the Motorola Edge Fusion, equipped with a Snapdragon 888 processor and a 6.7-inch OLED display.",
+    "specs": {
+      "display": "6.7-inch OLED",
+      "processor": "Qualcomm Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": {
+        "rear": "50MP + 12MP + 8MP",
+        "front": "16MP"
+      },
+      "os": "Android 12",
+      "network": "5G"
+    }
+  },
+  "images": [
+    "https://example.com/images/motorola_edge_fusion_front.jpg",
+    "https://example.com/images/motorola_edge_fusion_back.jpg"
+  ],
+  "shipping": {
+    "free_shipping": true,
+    "estimated_delivery_days": 5,
+    "return_policy": "30-day return window"
+  },
+  "available_on": [
+    {
+      "platform": "Amazon",
+      "url": "https://www.amazon.com/Motorola-Edge-Fusion"
+    },
+    {
+      "platform": "Flipkart",
+      "url": "https://www.flipkart.com/motorola-edge-fusion"
+    }
+  ]
+}
