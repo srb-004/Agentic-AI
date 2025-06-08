@@ -21,4 +21,6 @@ langchain-pinecone
 google-generativeai
 youtube_search
 langgraph
-Ipython
+unstructured
+chromadb
+langchain-chroma
