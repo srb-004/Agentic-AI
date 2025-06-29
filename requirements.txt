@@ -25,3 +25,4 @@ unstructured
 chromadb
 langchain-chroma
 duckduckgo_search
+langchain_experimental
